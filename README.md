@@ -1,1 +1,1 @@
-Preview Link: https://bright-figolla-23b9fe.netlify.app/
+Preview Link: https://social-app-theme-arbab.netlify.app/
